@@ -1,5 +1,10 @@
 body{
     background-color: #dddddd;
+    font-family: "Permanent Marker", cursive;
+}
+
+h1{
+    text-align: center;
 }
 
 #gameContainer{
@@ -9,11 +14,9 @@ body{
     border: 3px solid;
 }
 #scoreText{
-    font-family: "Permanent Marker", cursive;
     font-size: 100px;
 }
 #resetBtn{
-    font-family: "Permanent Marker", cursive;
     font-size: 22px;
     width: 100px;
     height: 50px;
